@@ -93,5 +93,5 @@ The goal is to keep all algorithm coursework organized in one clean, well‑stru
 ## 👤 Author
 
 **Brandon Everett**  
-ML & AI Graduate Student
+ML & AI Graduate Student | 
 Outdoorsy Lender  
